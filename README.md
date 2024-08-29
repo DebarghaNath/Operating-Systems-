@@ -33,3 +33,71 @@ Welcome to the Memory Mapped Files extravaganza! Imagine you have a file and you
    Fire up your terminal and compile the code with the following command:
    ```bash
    gcc -o memory_mapped_files memory_mapped_files.c
+
+### 🗄️ Memory Mapped Files
+
+Welcome to the Memory Mapped Files extravaganza! Imagine you have a file and you want to interact with it as if it’s just a chunk of memory. No need for file I/O functions—just map it straight into memory and work with it like a pro. Ready to dive into the magic of `mmap`?
+
+**Here’s What You’ll Discover:**
+
+- **Mapping Files into Memory:** Turn that file into a memory block! 🧩
+- **Reading and Writing:** Treat file data just like you would with regular variables. 📝
+- **Synchronization:** Keep everything in perfect harmony. ⚖️
+
+**How to Get Started:**
+
+1. **Compile the Program:**
+   Fire up your terminal and compile the code with the following command:
+   ```bash
+   gcc -o memory_mapped_files memory_mapped_files.c
+
+### 🗄️ Memory Mapped Files
+
+Welcome to the Memory Mapped Files extravaganza! Imagine you have a file and you want to interact with it as if it’s just a chunk of memory. No need for file I/O functions—just map it straight into memory and work with it like a pro. Ready to dive into the magic of `mmap`?
+
+**Here’s What You’ll Discover:**
+
+- **Mapping Files into Memory:** Turn that file into a memory block! 🧩
+- **Reading and Writing:** Treat file data just like you would with regular variables. 📝
+- **Synchronization:** Keep everything in perfect harmony. ⚖️
+
+**How to Get Started:**
+
+1. **Compile the Program:**
+   Fire up your terminal and compile the code with the following command:
+   ```bash
+   gcc -o memory_mapped_files memory_mapped_files.c
+
+### 🗄️ Memory Mapped Files
+
+Welcome to the Memory Mapped Files extravaganza! Imagine you have a file and you want to interact with it as if it’s just a chunk of memory. No need for file I/O functions—just map it straight into memory and work with it like a pro. Ready to dive into the magic of `mmap`?
+
+**Here’s What You’ll Discover:**
+
+- **Mapping Files into Memory:** Turn that file into a memory block! 🧩
+- **Reading and Writing:** Treat file data just like you would with regular variables. 📝
+- **Synchronization:** Keep everything in perfect harmony. ⚖️
+
+**How to Get Started:**
+
+1. **Compile the Program:**
+   Fire up your terminal and compile the code with the following command:
+   ```bash
+   gcc -o memory_mapped_files memory_mapped_files.c
+
+### 🗄️ Memory Mapped Files
+
+Welcome to the Memory Mapped Files extravaganza! Imagine you have a file and you want to interact with it as if it’s just a chunk of memory. No need for file I/O functions—just map it straight into memory and work with it like a pro. Ready to dive into the magic of `mmap`?
+
+**Here’s What You’ll Discover:**
+
+- **Mapping Files into Memory:** Turn that file into a memory block! 🧩
+- **Reading and Writing:** Treat file data just like you would with regular variables. 📝
+- **Synchronization:** Keep everything in perfect harmony. ⚖️
+
+**How to Get Started:**
+
+1. **Compile the Program:**
+   Fire up your terminal and compile the code with the following command:
+   ```bash
+   gcc -o memory_mapped_files memory_mapped_files.c
