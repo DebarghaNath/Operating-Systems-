@@ -1,10 +1,10 @@
-# Operating Systems Repository
+# <span style="color:#3498db;">Operating Systems Repository</span>
 
 Welcome to the **Operating Systems Repository**! This collection of programs is designed to help you explore fundamental operating system concepts through practical examples. Each program demonstrates key techniques and functionalities related to system-level programming in C.
 
-## Contents
+## <span style="color:#e74c3c;">Contents</span>
 
-### 1. Shared Memory
+### <span style="color:#2ecc71;">1. Shared Memory</span>
 
 This section contains examples of creating and managing shared memory between two independent processes. Shared memory is a powerful method for inter-process communication (IPC) that allows multiple processes to access the same memory space, facilitating data exchange and synchronization.
 
@@ -17,4 +17,3 @@ This section contains examples of creating and managing shared memory between tw
 1. **Compile the Program:**
    ```bash
    gcc -o shared_memory shared_memory.c
-
